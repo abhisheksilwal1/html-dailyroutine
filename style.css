@@ -1,0 +1,54 @@
+html{
+    font-size: 20px;
+    background-image: url(./Background.png);
+    background-size: 100%;
+}
+h1{
+    text-align: center;
+    text-decoration-line: underline;
+    text-decoration-color: red;
+    font-size: 3pc; 
+    font-family: "Angkor", serif;
+    font-weight: 400;
+    font-style: normal
+}
+#Description{
+    font-family: "Sree Krushnadevaraya", serif;
+    font-weight: 400;
+    font-style: normal;
+    text-align: center;
+    color: blue;
+    position: relative;
+    bottom: 20px;
+}
+.H2{
+    text-align: center;
+    font-family: "Butcherman", system-ui;
+    font-weight: 200;
+    font-style: normal;
+}
+.Time{
+    text-align: center;
+    font-family: "Tourney", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+    font-variation-settings:
+    "wdth" 100
+}
+.InnerList{
+    text-align: center;
+    font-family: "Sree Krushnadevaraya", serif;
+    font-weight: 500;
+    font-style: normal;
+    color: red;
+}
+.OuterList{
+    text-align: center;
+    font-family: "Crafty Girls", cursive;
+    font-weight: 400;
+    font-style: normal;
+    color: blue;
+    font-size: 1rem;
+}
+
